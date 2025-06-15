@@ -15,6 +15,7 @@ public class Search {
     // should be accepted as parameters); return -1 if target is not found
     // FIGURE OUT A WAY TO DO THIS THAT STILL USES AN EARLY RETURN!!!!!
     public static int linearSearchLast(int[] elements, int target) {
+        
         return -1;
     }
 
